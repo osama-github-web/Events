@@ -13,7 +13,7 @@ A simple Library Management System implemented in C#. This project demonstrates 
 
 ### Prerequisites
 
-- .NET SDK (version 6.0 or higher)
+- .NET SDK (version 8.0)
 - A code editor (e.g., Visual Studio, Visual Studio Code)
 
 ### Installation
